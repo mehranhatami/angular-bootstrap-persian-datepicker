@@ -1,9 +1,13 @@
 {
-  "name": "angular-bootstrap-persian-datepicker",
+  "name": "angular-persian-datepicker",
   "version": "0.1.0",
-  "main": "./persian-datepicker-tpls.js",
+  "main": "angular-persian-datepicker.js",
   "dependencies": {
     "angular-bootstrap": "0.11.2"
   },
-  "ignore": ["README.md"]
+  "ignore": [
+    "README.md",
+    ".gitignore",
+    ".gitattributes"
+  ]
 }
